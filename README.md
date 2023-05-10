@@ -18,7 +18,7 @@ Products Data:
 It reads both the products and rules from a YAML file. The default location of the file is priv/assets/products.yml and priv/assets/rules.yml, this can be changed in the Configuration
 
 How to Run:
-There is a Runner inside the folde testCases that links the features with the test cases. There is one for each product.
+There is a Runner inside the folde testCases that links the features with the test cases. Run it to run the tests. 
 
 Project Includes:
 - Java
