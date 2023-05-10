@@ -3,11 +3,11 @@
 About:
 Simple cashier function that adds products to a cart and displays the total price.
 
-The Products are: 
+The Products and prices are: 
 
-- Green Tea 3.11
-- Strawberries 5.00
-- Coffee 11.23
+- Green Tea: 3.11
+- Strawberries: 5.00
+- Coffee: 11.23
 
 Special Rules
 - FreeRule: Buy one get one free
