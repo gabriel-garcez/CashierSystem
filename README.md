@@ -1,1 +1,1 @@
-# Technical Evaluation QA Kantox
+# Cashier System
