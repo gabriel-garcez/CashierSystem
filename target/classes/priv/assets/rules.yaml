@@ -1,0 +1,8 @@
+freeRule:
+    extraProduct: 1
+reducedPriceRule:
+   discount: 0.5
+   amountToDiscount: 5
+fractionPriceRule:
+   discount: 0.2
+   amountToDiscount: 7
